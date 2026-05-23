@@ -75,5 +75,8 @@ Buscar en: https://www.daad.de/en/study-and-research-in-germany/scholarships/dev
 
 ## Más Información
 
-- **URL:** https://www.daad.de/en/study-and-research-in-germany/scholarships/development-related-courses/
+- **URL oficial EPOS:** https://www.daad.de/en/study-and-research-in-germany/scholarships/epos/
+- **Lista de programas con plazos 2026/27:** https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_deadlines_2026_27.pdf
 - **DAAD Ecuador:** https://www.daad.de/en/in-country/daad-offices/south-america/daad-quito/
+
+> ⚠️ **Proceso importante:** La solicitud NO se envía al DAAD — se aplica directamente a la universidad alemana del programa elegido. Si eres preseleccionado, la universidad te invita a subir tu documentación al portal DAAD.

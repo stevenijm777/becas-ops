@@ -80,5 +80,6 @@ El Plan de Investigación (Research Plan) es el documento más importante del pr
 
 ## Más Información
 
-- **URL** (versión original): https://www.mext.go.jp/a_menu/koutou/ryugaku/boshu/1330944.htm
-- **Embajada de Japón en Ecuador:** https://www.ec.emb-japan.go.jp/itpr_es/becas.html
+- **Portal oficial Study in Japan:** https://www.studyinjapan.go.jp/en/
+- **MEXT (ministerio, guías originales):** https://www.mext.go.jp/en/policy/education/highered/title03/detail03/sdetail03/1373853.htm
+- **Embajada de Japón en Ecuador:** https://www.ec.emb-japan.go.jp/itpr_es/becas.html *(verificar directamente — puede requerir acceso desde Ecuador)*

@@ -22,7 +22,7 @@
 | **deadline_status** | estimated |
 | **deadline_typical** | Enero–Marzo de cada año |
 | **Inicio del programa** | Septiembre de cada año (duración: 2 años maestría, 4 años doctorado) |
-| **deadline_next** | Verificar en https://www.irishaidfellows.net/ |
+| **deadline_next** | Verificar en https://www.irishaidfellowships.ie |
 
 > ⚠️ Los plazos son generalmente entre enero y marzo. Verificar en el portal oficial de Irish Aid Fellows.
 
@@ -60,5 +60,5 @@
 
 ## Más Información
 
-- **URL:** https://www.irishaidfellows.net/
+- **URL:** https://www.irishaidfellowships.ie
 - **Embajada Irlanda en Ecuador:** Verificar vía embajada en Lima (Irlanda no tiene embajada en Ecuador — tramitar visa en Lima)

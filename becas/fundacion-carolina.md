@@ -65,5 +65,5 @@ Verificar la modalidad específica en la convocatoria de interés.
 
 ## Más Información
 
-- **URL:** https://gestionfundacioncarolina.es/programas
+- **URL:** https://www.fundacioncarolina.es/becas/
 - **Web principal:** https://www.fundacioncarolina.es/

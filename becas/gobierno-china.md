@@ -78,5 +78,6 @@
 
 ## Más Información
 
-- **URL oficial:** https://www.campuschina.org/content/details3_74776.html
+- **URL oficial:** https://www.campuschina.org
+- **Portal de aplicación (CGSIS):** https://studyinchina.csc.edu.cn/
 - **Embajada China en Ecuador:** http://ec.china-embassy.gov.cn/ (verificar información actual)

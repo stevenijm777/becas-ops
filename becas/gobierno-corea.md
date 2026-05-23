@@ -22,7 +22,7 @@
 | **deadline_status** | estimated |
 | **deadline_typical** | Febrero–Abril de cada año (vía embajada en Ecuador) |
 | **Inicio del programa** | Septiembre de cada año |
-| **deadline_next** | Verificar en Embajada de Corea en Ecuador o https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do |
+| **deadline_next** | Verificar en https://www.studyinkorea.go.kr (sección GKS Notice) |
 
 > ⚠️ El proceso GKS tiene dos vías: embajada (aplica en Ecuador) y universidad (aplica directamente a la institución coreana). Los plazos varían entre ambas vías.
 
@@ -86,5 +86,5 @@
 
 ## Más Información
 
-- **URL:** https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do
+- **URL:** https://www.studyinkorea.go.kr
 - **Embajada Corea Ecuador:** http://ecu.mofa.go.kr/ (verificar información actual)
