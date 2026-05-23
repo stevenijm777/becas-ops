@@ -1,0 +1,47 @@
+# becas-ops — Estados Canónicos del Tracker
+# Fuente de verdad para data/applications.md
+# REGLAS:
+#   - No usar markdown bold (**) en el campo de estado
+#   - No incluir fechas en el estado (usar la columna de fecha)
+#   - No incluir texto extra (usar la columna de notas)
+
+estados:
+  - nombre: Evaluada
+    descripcion: Reporte A-E completado, pendiente de decisión
+    accion_siguiente: Decidir si preparar la aplicación
+
+  - nombre: En_Preparacion
+    descripcion: Reuniendo documentos y preparando aplicación
+    accion_siguiente: Completar checklist de documentos
+
+  - nombre: Aplicada
+    descripcion: Aplicación enviada al programa/institución
+    accion_siguiente: Esperar respuesta
+
+  - nombre: En_Revision
+    descripcion: Institución está revisando la aplicación
+    accion_siguiente: Preparar para posible entrevista
+
+  - nombre: Entrevista
+    descripcion: En proceso de entrevista
+    accion_siguiente: Preparar entrevista con el modo entrevista
+
+  - nombre: Aceptada
+    descripcion: Beca otorgada
+    accion_siguiente: Confirmar aceptación y preparar documentación de viaje
+
+  - nombre: Rechazada
+    descripcion: No seleccionado por el programa
+    accion_siguiente: Revisar feedback si está disponible
+
+  - nombre: Descartada
+    descripcion: Descartada por el candidato (plazo cerrado, no cumple requisitos, etc.)
+    accion_siguiente: Ninguna
+
+  - nombre: Plazo_Cerrado
+    descripcion: El plazo de postulación cerró antes de aplicar
+    accion_siguiente: Monitorear para la siguiente convocatoria
+
+  - nombre: SKIP
+    descripcion: No aplica — beca fuera del perfil objetivo
+    accion_siguiente: Ninguna

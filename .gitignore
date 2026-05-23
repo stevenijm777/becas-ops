@@ -1,0 +1,32 @@
+# ─── Datos personales (NUNCA subir al repo público) ──────────────────────────
+cv.md
+config/profile.yml
+modes/_profile.md
+docs/ESPOL-resources.md
+
+# ─── Datos generados por el sistema ──────────────────────────────────────────
+data/applications.md
+data/pipeline.md
+reports/
+output/
+
+# ─── Node / entorno ───────────────────────────────────────────────────────────
+node_modules/
+.env
+.env.local
+.envrc
+*.log
+
+# ─── Sistema operativo ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# ─── Editores ─────────────────────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+
+# ─── Archivos de origen (de la universidad, no para el repo) ─────────────────
+*.xlsx
+*.pptx

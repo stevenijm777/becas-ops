@@ -1,0 +1,85 @@
+# becas-ops — Perfil del Postulante
+# Copia este archivo a config/profile.yml y completa con tus datos.
+# Este archivo es la fuente de verdad de tu información personal en el sistema.
+# IMPORTANTE: config/profile.yml está en .gitignore — tus datos no se suben al repo.
+
+postulante:
+  nombre_completo: ""
+  email: ""
+  telefono: ""
+  ubicacion: ""          # Ciudad, País (ej: "Guayaquil, Ecuador")
+  linkedin: ""
+  github: ""
+
+universidad:
+  nombre: ""             # ej: "ESPOL", "UCuenca", "USFQ"
+  facultad: ""           # ej: "FIEC", "FIMCP"
+  carrera: ""            # ej: "Ingeniería Mecatrónica"
+  nivel_actual: ""       # "Estudiante de grado" | "Graduado" | "Maestrando"
+  gpa: ""                # Tu promedio (incluye la escala, ej: "8.9/10" o "3.8/4.0")
+  anio_graduacion: ""    # Año real o estimado de graduación
+
+idiomas:
+  # Lista tus certificaciones de idioma actuales
+  - idioma: "Español"
+    nivel: "Nativo"
+    certificacion: ""
+  - idioma: "Inglés"
+    nivel: ""            # A1/A2/B1/B2/C1/C2
+    certificacion: ""    # ej: "IELTS 7.0", "TOEFL 95", "Cambridge C1", "Pearson B2"
+  # Agrega más idiomas si aplica
+
+documentos_disponibles:
+  # Marca true los documentos que ya tienes o puedes obtener fácilmente
+  titulo_profesional: false
+  acta_grado: false
+  certificado_calificaciones: false
+  pasaporte: false
+  certificacion_idioma: false
+  carta_recomendacion_academica: false
+  # Nota: ESPOL ofrece certificados en www.certificados.espol.edu.ec
+
+objetivos:
+  nivel_posgrado:
+    - "Maestría"         # Opciones: "Maestría", "Doctorado", "Postdoctorado"
+  
+  # Países/regiones de interés (en orden de preferencia)
+  paises_interes:
+    - "Europa"
+    - "Estados Unidos"
+    - "Latinoamérica"
+  
+  areas_investigacion:   # Tus áreas de interés académico/investigación
+    - ""
+    - ""
+  
+  tipo_financiamiento:
+    - "Completo"         # Opciones: "Completo", "Parcial", "Cualquiera"
+
+narrativa:
+  # Una línea que te describe profesionalmente
+  headline: ""
+  
+  # ¿Por qué quieres un posgrado? ¿Qué quieres lograr?
+  objetivo_posgrado: ""
+  
+  # Tus 3-5 fortalezas más relevantes para becas académicas
+  fortalezas:
+    - ""
+    - ""
+    - ""
+  
+  # Proyectos, publicaciones, premios o logros destacados
+  logros:
+    - nombre: ""
+      descripcion: ""
+      impacto: ""
+
+restricciones:
+  # Factores eliminatorios — el sistema usará esto para filtrar becas incompatibles
+  requiero_beca_completa: false   # Si true, descarta becas parciales en score < 4.0
+  sin_paises:                     # Países que NO considerarías
+    - ""
+  sin_idiomas:                    # Idiomas en los que NO puedes estudiar
+    - ""
+  duracion_maxima_anios: 3        # Duración máxima del programa en años

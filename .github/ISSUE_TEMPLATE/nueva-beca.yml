@@ -1,0 +1,43 @@
+---
+name: Agregar Nueva Beca al Catálogo
+about: Contribuye con una beca que no está en el catálogo
+title: "[BECA] "
+labels: nueva-beca
+assignees: ''
+
+---
+
+## Información de la Beca
+
+**Nombre oficial:**
+<!-- Nombre completo según la convocatoria -->
+
+**Oferente:**
+<!-- Institución u organismo que financia -->
+
+**País de estudio:**
+
+**Nivel (Maestría/Doctorado/Ambos):**
+
+**Tipo de financiamiento:**
+- [ ] Completo (colegiatura + alojamiento + estipendio + seguro)
+- [ ] Parcial
+
+**URL oficial de la convocatoria:**
+
+**¿La has verificado recientemente?**
+- [ ] Sí — Fecha de verificación: ___
+
+## Checklist para el PR
+
+Para agregar esta beca, crea `becas/{nombre-slug}.md` usando `templates/beca-template.md` como guía:
+
+- [ ] Todos los campos del template completados
+- [ ] `deadline_status` configurado correctamente (open/closed/estimated/unknown)
+- [ ] URL oficial activa y verificada
+- [ ] Notas para postulantes latinoamericanos incluidas
+
+## Contexto Adicional
+
+<!-- ¿Algo importante que otros postulantes deberían saber? -->
+<!-- ¿Eres alumni de esta beca? Tu experiencia es muy valiosa. -->
