@@ -12,7 +12,7 @@ No se requiere Node.js, Python ni ninguna otra dependencia.
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/becas-ops.git
+git clone https://github.com/stevenijm777/becas-ops.git
 cd becas-ops
 
 # 2. Crear tu perfil de postulante

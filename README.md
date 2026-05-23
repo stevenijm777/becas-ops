@@ -48,7 +48,7 @@
 
 ```bash
 # 1. Clonar y entrar al directorio
-git clone https://github.com/tu-usuario/becas-ops.git
+git clone https://github.com/stevenijm777/becas-ops.git
 cd becas-ops
 
 # 2. Configurar tu perfil
