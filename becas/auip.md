@@ -19,11 +19,12 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
-| **deadline_typical** | Varía por programa y universidad — distintas fechas durante el año |
-| **deadline_next** | Verificar en https://www.auip.org/es/becasauip |
+| **deadline_status** | closed |
+| **deadline_typical** | Marzo–Mayo (mayoría de programas) y Octubre |
+| **Según CSV ESPOL (2026)** | 2026-06-30 (Maestría en España) / 2026-10-31 (Movilidad Académica) |
+| **Ciclo 2026** | **CERRADO** (La mayoría de becas de máster cerraron entre marzo y mayo de 2026) |
 
-> ⚠️ La AUIP tiene múltiples convocatorias durante el año. Monitorear regularmente el portal.
+> ⚠️ La AUIP es un portal con múltiples becas ofertadas por universidades españolas e iberoamericanas. No hay un deadline único. Muchas convocatorias para iniciar en sep/oct 2026 ya cerraron. Monitorear regularmente el portal para nuevas becas.
 
 ## Financiamiento — ¿Qué Cubre?
 

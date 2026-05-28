@@ -19,11 +19,12 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
-| **deadline_typical** | Varía por programa — consultar portal oficial |
-| **deadline_next** | Verificar en https://www.oas.org/es/becas/ |
+| **deadline_status** | closed |
+| **deadline_typical** | Abril para el programa principal, pero varía por subprogramas |
+| **Según CSV ESPOL (2026)** | Múltiples programas: 2026-03-31 (Descuentos UE) / 2026-04-29 (Capacitación OEA) / 2026-04-30 (Structuralia) / 2026-05-31 (Start Online) / 2026-10-01 (U. Europea) / Todo el año (Rowe Fund) |
+| **Ciclo 2026/2027** | **CERRADO** (El programa académico principal cerró el 3 de abril de 2026) |
 
-> ⚠️ Los plazos de la OEA varían significativamente por programa. Verifica siempre en el portal oficial antes de planear tu aplicación.
+> ⚠️ Los plazos de la OEA varían significativamente por programa y alianza. El programa general 2026 ya cerró. Verifica siempre en el portal oficial y con la Oficina Nacional de Enlace en Ecuador antes de planear tu aplicación.
 
 ## Financiamiento — ¿Qué Cubre?
 

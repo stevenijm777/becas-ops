@@ -19,12 +19,13 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
-| **deadline_typical** | Enero–Marzo de cada año |
-| **Inicio del programa** | Septiembre de cada año (duración: 2 años maestría, 4 años doctorado) |
-| **deadline_next** | Verificar en https://www.irishaidfellowships.ie |
+| **deadline_status** | closed |
+| **deadline_typical** | Octubre (Government of Ireland Postgrad) / Marzo (GOI-IES) |
+| **Inicio del programa** | Septiembre de cada año (duración: 1-2 años maestría, 4 años doctorado) |
+| **Según CSV ESPOL (2026)** | 2026-03-02 (Becas HEA Gobierno Irlanda) / 2026-07-01 (Fees & Scholarships) |
+| **Ciclo 2026/2027** | **CERRADO** (Government of Ireland cerró en oct 2025; GOI-IES cerró en mar 2026) |
 
-> ⚠️ Los plazos son generalmente entre enero y marzo. Verificar en el portal oficial de Irish Aid Fellows.
+> ⚠️ Existen dos programas principales: "Government of Ireland Postgraduate" (cierra típicamente en octubre) e "International Education Scholarships GOI-IES" (cierra en marzo). Ambos ya cerraron para el ciclo 2026. Verificar convocatorias para 2027.
 
 ## Financiamiento — ¿Qué Cubre?
 

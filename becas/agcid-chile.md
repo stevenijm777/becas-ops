@@ -19,12 +19,13 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
-| **deadline_typical** | Enero–Febrero de cada año |
-| **Inicio del programa** | Generalmente agosto (duración 2 años) |
-| **deadline_next** | Verificar en https://www.agci.cl/becas/becas-para-extranjeros |
+| **deadline_status** | closed |
+| **deadline_typical** | Octubre del año anterior al inicio del programa |
+| **Inicio del programa** | Generalmente marzo-abril (algunos en agosto) del año siguiente |
+| **Según CSV ESPOL (2026)** | No hay registros recientes en el CSV de ESPOL para esta beca |
+| **Ciclo 2026** | **CERRADO** (El plazo para iniciar en 2026 venció en octubre de 2025) |
 
-> ⚠️ Los plazos de postulación son típicamente enero-febrero, pero pueden variar. Verifica en el portal oficial.
+> ⚠️ Los plazos para el programa principal de magíster suelen cerrar a principios de octubre del año anterior (ej. octubre 2025 para iniciar en 2026). Verifica en el portal oficial para la convocatoria 2027.
 
 ## Financiamiento — ¿Qué Cubre?
 
