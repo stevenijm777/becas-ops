@@ -12,9 +12,6 @@
 </p>
 
 ---
-
-> *Las instituciones usan IA para filtrar candidatos. Ahora los candidatos tienen IA para encontrar las becas donde realmente califican.*
-
 ## ¿Qué es esto?
 
 `becas-ops` convierte cualquier AI coding CLI en un centro de comando para búsqueda y aplicación de becas internacionales. En vez de revisar manualmente decenas de programas, el sistema:
