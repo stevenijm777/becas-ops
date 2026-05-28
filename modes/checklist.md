@@ -13,8 +13,8 @@ Generar un checklist personalizado de documentos requeridos, indicando cuáles e
 ## Paso 1 — Identificar la Beca
 
 Determina para qué beca es el checklist:
-- Busca en `becas/{slug}.md`
-- Si no está en el catálogo, usa WebSearch para obtener los requisitos oficiales
+- Busca en `becas/{slug}.md` o en `data/becas-espol.csv` (emparejando por nombre o del oferente)
+- Si no está en el catálogo ni en el CSV, usa WebSearch para obtener los requisitos oficiales
 
 Lee `config/profile.yml` para conocer qué documentos ya tiene disponibles.
 

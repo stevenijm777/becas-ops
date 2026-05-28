@@ -14,7 +14,7 @@ Generar una carta de motivación personalizada, en el idioma correcto, que maxim
 
 Determina para qué beca es la carta:
 - Si viene de una evaluación previa, usa el reporte en `reports/`
-- Si no, lee el archivo de la beca en `becas/` o haz WebSearch
+- Si no, lee el archivo de la beca en `becas/`, búscala en `data/becas-espol.csv` o haz WebSearch
 
 Lee `cv.md`, `config/profile.yml` y `modes/_profile.md`.
 

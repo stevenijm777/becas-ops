@@ -12,16 +12,22 @@ Identificar qué becas del catálogo tienen plazos abiertos o próximos en el ci
 
 ## Paso 1 — Leer el Catálogo
 
-Lee todos los archivos en `becas/`. Para cada beca, extrae:
-- `deadline_typical` (mes típico de cierre)
-- `deadline_status` (open / closed / estimated / unknown)
-- `deadline_next` (si existe)
+1. Lee todos los archivos en `becas/`. Para cada beca, extrae:
+   - `deadline_typical` (mes típico de cierre)
+   - `deadline_status` (open / closed / estimated / unknown)
+   - `deadline_next` (si existe)
+2. Lee el archivo `data/becas-espol.csv`. Para cada fila, impórtala como una beca:
+   - Extrae `programa`, `oferente`, `pais`, `area`, `modalidad` y `fecha_limite`.
+   - Determina el estado del plazo basándose en `fecha_limite`:
+     * Si `fecha_limite` es una fecha futura válida (ej. `2026-11-01`), se clasifica como `open`.
+     * Si es una fecha pasada, se clasifica como `closed` o `estimated` (calculando el mes/año proyectado del próximo ciclo).
+     * Si contiene texto variable (ej. "Depende de la universidad"), se clasifica como `unknown`.
 
 ---
 
 ## Paso 2 — Verificar Plazos con WebSearch
 
-Para cada beca con `deadline_status: estimated` o `unknown`:
+Para las becas en `becas/` o las becas de mayor interés en `data/becas-espol.csv` con `deadline_status: estimated` o `unknown`:
 
 Busca: `"[nombre beca] [año actual] convocatoria plazo postulación"`
 

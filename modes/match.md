@@ -25,13 +25,14 @@ Lee `config/profile.yml` y `cv.md`. Extrae los factores clave de scoring:
 
 ## Paso 2 — Score Rápido para Cada Beca
 
-Lee todos los archivos en `becas/`. Para cada beca, calcula un **score aproximado** (no requiere los 5 bloques completos — solo las dimensiones críticas):
-
-- ¿El nivel objetivo coincide? (maestría/doctorado)
-- ¿El idioma está certificado?
-- ¿El GPA cumple el mínimo?
-- ¿El área de estudios encaja?
-- ¿Hay alguna restricción que elimine esta beca?
+1. Lee todos los archivos en `becas/` y el archivo `data/becas-espol.csv`.
+2. Para cada beca del catálogo markdown y de la base de datos CSV, calcula un **score aproximado** (no requiere los 5 bloques completos — solo las dimensiones críticas):
+   - **Nivel objetivo:** ¿El `tipo` (en CSV) o `nivel` (en markdown) coincide con los del perfil? (Maestría, Doctorado, etc.)
+   - **Idioma:** ¿Cumple con los idiomas permitidos/requeridos? (Si el programa del CSV indica un país angloparlante o un programa internacional, asume inglés. Si el perfil tiene restricciones como `sin_idiomas` ej. japonés o chino mandarín, penaliza o filtra si el país de destino requiere ese idioma sin alternativas en inglés).
+   - **GPA:** ¿Cumple con el GPA mínimo si está especificado?
+   - **Área:** ¿El `area` de estudios encaja con las áreas de interés del perfil del estudiante (ej. robótica, computación, ingeniería, STEAM, IA, simulación)?
+   - **País:** ¿El país coincide con las preferencias del estudiante?
+   - **Restricción:** ¿Hay alguna restricción (como países excluidos o financiamiento mínimo) que elimine esta beca?
 
 Asigna un score aproximado de 1-5.
 

@@ -8,12 +8,22 @@ Cuando el usuario pega el nombre, URL o texto de una beca, ejecutar SIEMPRE los 
 
 Antes de los bloques:
 
-1. **Identificar la beca:** Si es un nombre conocido, buscarla en `becas/`.  
-   Si no está en el catálogo, usar WebSearch para obtener la convocatoria oficial.
+1. **Identificar la beca:** Si es un nombre conocido, buscarla en `becas/` o como una fila en `data/becas-espol.csv` (emparejando por nombre del programa o del oferente).
+   - Si se encuentra en el CSV, mapea las columnas:
+     * `tipo` -> Nivel/Tipo de programa (Maestría, Doctorado, Pregrado, etc.)
+     * `oferente` -> Oferente
+     * `programa` -> Nombre del programa/beca
+     * `pais` -> País de destino
+     * `institucion` -> Institución/Universidad
+     * `area` -> Área de estudios
+     * `modalidad` -> Modalidad (Presencial, En Línea, etc.)
+     * `fecha_limite` -> Plazo límite (si contiene una fecha YYYY-MM-DD se usa; si es texto tipo "Depende de la universidad", se trata como `estimated` o `unknown`)
+     * `estado` -> Estado de vigencia (ej. "VIGENTE")
+   - Si no está en el catálogo ni en el CSV, usar WebSearch para obtener la convocatoria oficial.
 
-2. **Clasificar el arquetipo** (ver `_shared.md`): Completa / Parcial / Gobierno Bilateral / ONG / Universidad / Joint-Erasmus.
+2. **Clasificar el arquetipo** (ver `_shared.md`): Completa / Parcial / Gobierno Bilateral / ONG / Universidad / Joint-Erasmus. (Para las becas del CSV, si no se especifica explícitamente, dedúcelo a partir del oferente/institución o del programa).
 
-3. **Verificar plazo:** Usa WebSearch con "[nombre de beca] [año actual] convocatoria plazo" para confirmar fechas.
+3. **Verificar plazo:** Usa WebSearch con "[nombre de beca] [año actual] convocatoria plazo" para confirmar fechas si el plazo en el CSV está ausente, obsoleto o es incierto.
 
 4. **Leer perfil del postulante:** `cv.md` + `config/profile.yml` + `modes/_profile.md`.
 

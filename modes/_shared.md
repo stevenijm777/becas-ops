@@ -15,6 +15,7 @@
 | profile.yml | `config/profile.yml` | SIEMPRE (identidad y objetivos) |
 | _profile.md | `modes/_profile.md` | SIEMPRE (personalización del usuario) |
 | Catálogo de becas | `becas/*.md` | Al evaluar o hacer match |
+| Catálogo ESPOL CSV | `data/becas-espol.csv` | Al evaluar o hacer match |
 
 **REGLA: NUNCA hardcodees datos del usuario.** Léelos desde los archivos en tiempo de evaluación.
 **REGLA: Lee `_profile.md` DESPUÉS de este archivo. Las personalizaciones en `_profile.md` tienen precedencia.**
@@ -99,7 +100,7 @@ Después de detectar el arquetipo, revisa `modes/_profile.md` para el framing es
 |-------------|-----|
 | WebSearch | Verificar plazos actuales, tasas de aceptación históricas, requisitos actualizados |
 | WebFetch | Extraer convocatoria de páginas estáticas |
-| Read | cv.md, config/profile.yml, modes/_profile.md, becas/*.md |
+| Read | cv.md, config/profile.yml, modes/_profile.md, becas/*.md, data/becas-espol.csv |
 | Write | data/applications.md, reports/*.md, output/cartas/*.md |
 
 ---
