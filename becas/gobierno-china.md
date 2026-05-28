@@ -19,12 +19,13 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
-| **deadline_typical** | Depende del programa y la vía (vía embajada: generalmente enero-abril; vía universidad: variable) |
-| **Inicio del programa** | Depende del programa (generalmente septiembre) |
-| **deadline_next** | Verificar en https://www.campuschina.org/ y en la Embajada China en Ecuador |
+| **deadline_status** | closed |
+| **deadline_typical** | Noviembre–Diciembre (apertura) a Marzo–Abril (cierre) del año anterior al inicio |
+| **Inicio del programa** | Generalmente septiembre |
+| **Según CSV ESPOL (2026)** | Múltiples programas con cierres variables: 2026-01-23 (UNESCO) / 2026-02-20 (HIT) / 2026-03-01 (Jilin) / 2026-04-30 (CSC General) / 2026-09-01 (Schwarzman) |
+| **Ciclo 2026/2027** | **CERRADO** para el proceso general (Cerró entre marzo y abril de 2026) |
 
-> ⚠️ El proceso CSC tiene múltiples vías (embajada, universidad, organizaciones). Los plazos varían significativamente.
+> ⚠️ El proceso CSC tiene múltiples vías (embajada, universidad, organizaciones). El ciclo general 2026/2027 ya cerró. Para aplicaciones Type B (vía universidad), cada institución china tiene su propio plazo interno. Verifica siempre en la universidad de destino y en https://studyinchina.csc.edu.cn/.
 
 ## Financiamiento — ¿Qué Cubre? (Beca Completa)
 

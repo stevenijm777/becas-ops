@@ -19,12 +19,13 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
-| **deadline_typical** | Marzo–Abril de cada año |
-| **Inicio del programa** | Septiembre de cada año (duración 2 años) |
-| **deadline_next** | Verificar en https://www.fulbright.org.ec/ |
+| **deadline_status** | closed |
+| **deadline_typical** | Marzo–Abril de cada año (para maestrías y doctorados) |
+| **Inicio del programa** | Septiembre del año siguiente al cierre de la convocatoria |
+| **Según CSV ESPOL (2026)** | 2025-03-10 (Posgrado) / 2026-01-21 y 2026-02-18 (Programas de enseñanza) |
+| **Ciclo 2026/2027** | **YA CERRADO** (El ciclo 2027-2028 está por definirse localmente) |
 
-> ⚠️ Los plazos son generalmente entre marzo y abril. Verifica la convocatoria oficial en el sitio de Fulbright Ecuador.
+> ⚠️ Los plazos para postgrado en Ecuador cerraron en marzo 2025 para el ciclo de inicio 2026. Verifica siempre la convocatoria oficial en el sitio de Fulbright Ecuador (https://www.fulbright.org.ec/).
 
 ## Financiamiento — ¿Qué Cubre?
 

@@ -19,12 +19,13 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
+| **deadline_status** | closed |
 | **deadline_typical** | Enero–Marzo de cada año |
-| **Inicio del programa** | Depende del programa (Maestrías: 1 año, Doctorados: hasta 4 años) |
-| **deadline_next** | Verificar en https://gestionfundacioncarolina.es/programas |
+| **Inicio del programa** | Septiembre/Octubre del año de la convocatoria |
+| **Según CSV ESPOL (2026)** | 2026-01-12 (Posgrado) / 2025-03-12 (Maestría Estudios de Género) / 2026-10-15 (Pregrado US) |
+| **Ciclo 2026/2027** | **YA CERRADO** (Cerró entre febrero y abril de 2026 según el programa) |
 
-> ⚠️ Los plazos son generalmente entre enero y marzo. La Fundación Carolina lanza distintas convocatorias a lo largo del año.
+> ⚠️ El ciclo principal 2026/2027 ya cerró. Las convocatorias suelen abrir a mediados de enero y cerrar a principios de marzo o abril. Verificar la próxima convocatoria (2027/2028) en enero 2027 en https://gestionfundacioncarolina.es/programas.
 
 ## Financiamiento — ¿Qué Cubre?
 

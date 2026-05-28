@@ -19,12 +19,13 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
+| **deadline_status** | closed |
 | **deadline_typical** | Febrero–Abril de cada año (vía embajada en Ecuador) |
 | **Inicio del programa** | Septiembre de cada año |
-| **deadline_next** | Verificar en https://www.studyinkorea.go.kr (sección GKS Notice) |
+| **Según CSV ESPOL (2026)** | 2026-09-01 (GKS Pregrado 2024) / 2026-03-04 (SNU) / 2026-04-10 y 2026-09-02 (GIST) / 2025-11-06 (KOICA) |
+| **Ciclo 2026 (Posgrado)** | **YA CERRADO** (El periodo de aplicación fue del 12 al 25 de febrero de 2026) |
 
-> ⚠️ El proceso GKS tiene dos vías: embajada (aplica en Ecuador) y universidad (aplica directamente a la institución coreana). Los plazos varían entre ambas vías.
+> ⚠️ El proceso GKS Graduate 2026 ya cerró. Desde este ciclo, las aplicaciones se realizan de forma digital en https://www.studyinkorea.go.kr (sección GKS Notice). Monitorear la Embajada de Corea en Ecuador para instrucciones locales.
 
 ## Financiamiento — ¿Qué Cubre? (Beca Completa)
 
