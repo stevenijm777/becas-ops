@@ -19,12 +19,13 @@
 
 | Campo | Valor |
 |-------|-------|
-| **deadline_status** | estimated |
-| **deadline_typical** | Agosto–Noviembre de cada año |
+| **deadline_status** | closed |
+| **deadline_typical** | Apertura: agosto / Cierre: octubre-noviembre de cada año |
 | **Inicio del programa** | Septiembre del año siguiente (maestría de 1 año) |
-| **deadline_next** | Verificar en https://www.chevening.org/apply/ |
+| **Ciclo 2026/2027** | Abrió: 5 agosto 2025 / Cerró: 7 octubre 2025 — **YA CERRADO** |
+| **Próximo ciclo (2027/2028)** | Apertura estimada: agosto 2026 / Cierre estimado: octubre 2026 |
 
-> ⚠️ Las aplicaciones típicamente abren en agosto y cierran en noviembre. El proceso incluye entrevistas de enero a marzo del año siguiente.
+> ⚠️ El ciclo 2026/2027 ya cerró. El próximo ciclo abrirá aproximadamente en **agosto 2026**. Monitorear https://www.chevening.org/apply/ a partir de julio 2026. El proceso incluye entrevistas de enero a marzo del año siguiente.
 
 ## Financiamiento — ¿Qué Cubre? (Beca Completa)
 

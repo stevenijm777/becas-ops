@@ -20,11 +20,11 @@
 | Campo | Valor |
 |-------|-------|
 | **deadline_status** | estimated |
-| **deadline_typical** | Enero–Febrero para inicio en septiembre |
+| **deadline_typical** | Octubre–Febrero (varía por consorcio/programa) |
 | **Inicio del programa** | Generalmente agosto–septiembre |
-| **deadline_next** | Verificar en el catálogo oficial por programa específico |
+| **Según CSV ESPOL (2026)** | 2026-03-13 (Erasmus Mundus 2025) / 2026-05-31 (M.Sc. Programme) / Variable por programa (enero o agosto) |
 
-> ⚠️ Cada programa Erasmus Mundus tiene su propio plazo. Algunos cierran en noviembre-diciembre del año anterior. Verificar siempre en la web del consorcio específico.
+> ⚠️ **No hay un deadline central.** Cada consorcio Erasmus Mundus tiene su propio plazo. La mayoría cierra entre diciembre y febrero para inicio en septiembre. Consulta siempre la web del consorcio específico desde el [catálogo oficial](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_es).
 
 ## Financiamiento — ¿Qué Cubre? (Beca Completa)
 

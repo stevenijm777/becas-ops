@@ -18,13 +18,14 @@
 ## Plazos
 
 | Campo | Valor |
-|-------|-------|
+|-------|----- --|
 | **deadline_status** | estimated |
-| **deadline_typical** | Agosto–Noviembre (vía Embajada de Japón en Ecuador) |
+| **deadline_typical** | Abril–Mayo (apertura convocatoria vía embajada) / Entrega de docs: mayo-junio |
 | **Inicio del programa** | Septiembre/Octubre del año siguiente (precedido por 6 meses de japonés) |
-| **deadline_next** | Verificar en la Embajada de Japón en Ecuador — ellos gestionan el proceso local |
+| **Según CSV ESPOL (2026)** | 2026-01-25 (Beca IUJ) / 2026-02-01 (Amgen UTokyo) / 2026-03-01 (jfUNU) / 2026-03-31 (OIST) |
+| **Ciclo 2026/2027** | La Embajada de Japón en Ecuador ya publicó las convocatorias para el año académico 2027 (proceso durante 2026) |
 
-> ⚠️ El proceso MEXT se gestiona **obligatoriamente a través de la Embajada de Japón** en el país de residencia del candidato. Los plazos varían año a año — verificar directamente con la Embajada en Quito.
+> ⚠️ El proceso MEXT se gestiona **obligatoriamente a través de la Embajada de Japón** en el país de residencia. La embajada en Ecuador ya ha publicado convocatorias para 2026/2027. Verificar directamente en https://www.ec.emb-japan.go.jp/ (sección Cultura > Oportunidades de Estudios en Japón).
 
 ## Financiamiento — ¿Qué Cubre? (Beca Completa)
 
@@ -82,4 +83,6 @@ El Plan de Investigación (Research Plan) es el documento más importante del pr
 
 - **Portal oficial Study in Japan:** https://www.studyinjapan.go.jp/en/
 - **MEXT (ministerio, guías originales):** https://www.mext.go.jp/en/policy/education/highered/title03/detail03/sdetail03/1373853.htm
-- **Embajada de Japón en Ecuador:** https://www.ec.emb-japan.go.jp/itpr_es/becas.html *(verificar directamente — puede requerir acceso desde Ecuador)*
+- **Embajada de Japón en Ecuador:** https://www.ec.emb-japan.go.jp/ (sección Cultura > Oportunidades de Estudios en Japón)
+
+> ⚠️ La URL anterior de la embajada (`/itpr_es/becas.html`) devuelve 403. Usar la página principal y navegar a la sección de becas manualmente.

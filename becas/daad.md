@@ -20,18 +20,19 @@
 | Campo | Valor |
 |-------|-------|
 | **deadline_status** | estimated |
-| **deadline_typical** | Generalmente el año anterior al inicio de estudios (octubre-diciembre para inicio en abril siguiente) |
+| **deadline_typical** | Varía por programa (la mayoría entre marzo y septiembre del año anterior al inicio) |
 | **Inicio del programa** | Abril o septiembre (duración 2 años) |
-| **deadline_next** | Verificar en https://www.daad.de/en/study-and-research-in-germany/scholarships/ |
+| **deadline_next** | Según CSV ESPOL: 2026-09-30 (EPOS general) / 2026-03-01 y 2026-05-01 (otros programas DAAD) |
+| **Fuente de plazos** | [PDF oficial de plazos 2026/27](https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_deadlines_2026_27.pdf) |
 
-> ⚠️ Los plazos del DAAD son especialmente estrictos y a veces abren con 12-18 meses de anticipación. Verificar siempre en el portal oficial y en la web del programa específico.
+> ⚠️ **No hay un deadline único.** Cada programa EPOS tiene su propia fecha de cierre. Consulta siempre el PDF oficial de plazos y la web del programa específico. Los plazos pueden abrir con 12-18 meses de anticipación.
 
 ## Financiamiento — ¿Qué Cubre? (Beca Completa)
 
 - ✅ Colegiatura completa
 - ✅ Alojamiento (estipendio para vivienda)
 - ✅ Seguro médico
-- ✅ Estipendio mensual (~934 EUR/mes para maestría)
+- ✅ Estipendio mensual (~992 EUR/mes para maestría; ~1,400 EUR/mes para doctorado desde feb. 2026)
 - ✅ Pasaje de avión de ida y vuelta
 - ✅ Subsidio de viaje (dentro de Alemania)
 
@@ -63,7 +64,7 @@
 - **M.Sc. Autonomous Systems** — Hochschule Bonn-Rhein-Sieg
 - **M.Sc. Mechatronics** — múltiples universidades técnicas
 
-Buscar en: https://www.daad.de/en/study-and-research-in-germany/scholarships/development-related-courses/
+Buscar en: https://www.daad.de/en/study-and-research-in-germany/scholarships/development-related-postgraduate-courses-epos/
 
 ## Notas para Postulantes Ecuatorianos
 
@@ -75,8 +76,9 @@ Buscar en: https://www.daad.de/en/study-and-research-in-germany/scholarships/dev
 
 ## Más Información
 
-- **URL oficial EPOS:** https://www.daad.de/en/study-and-research-in-germany/scholarships/epos/
+- **URL oficial EPOS:** https://www.daad.de/en/study-and-research-in-germany/scholarships/development-related-postgraduate-courses-epos/
 - **Lista de programas con plazos 2026/27:** https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_epos_deadlines_2026_27.pdf
+- **Brochure EPOS 2026/27:** https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_programmbroschuere_epos_2026-27.pdf
 - **DAAD Ecuador:** https://www.daad.de/en/in-country/daad-offices/south-america/daad-quito/
 
 > ⚠️ **Proceso importante:** La solicitud NO se envía al DAAD — se aplica directamente a la universidad alemana del programa elegido. Si eres preseleccionado, la universidad te invita a subir tu documentación al portal DAAD.
