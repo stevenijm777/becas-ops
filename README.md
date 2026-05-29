@@ -1,8 +1,5 @@
 # becas-ops — Sistema de Gestión de Becas con IA
 
-<p align="center">
-  <strong>El sistema que te ayuda a encontrar becas internacionales para las que realmente calificas</strong>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-000?style=flat&logo=anthropic&logoColor=white" alt="Claude Code">
